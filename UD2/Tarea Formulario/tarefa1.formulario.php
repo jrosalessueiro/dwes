@@ -6,11 +6,11 @@
     <body>
         <div>
             
-            <FORM ACTION = "procesa.php" METHOD ="GET">
+            <FORM ACTION = "procesa2.php" METHOD ="GET">
                 <H1> Introduzca su nombre: </H1>
                     <INPUT TYPE = "text" NAME ="nombre"><BR>
                 <H1> Introduzca sus apellidos: </H1>
-                    <INPUT TYPE = "text" NAME ="apellidos"><BR>
+                    <INPUT TYPE = "text" NAME ="apellidos"><BR><BR>
                 <INPUT TYPE = "submit" VALUE ="Enviar">
             </FORM>
         </div>
@@ -35,6 +35,8 @@
         </div>
     </body>
 </html>
+
+
 --- procesa2.php ---
 
 <html>
